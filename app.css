@@ -1,0 +1,53 @@
+#headingGroup{
+    line-height: 1rem;
+}
+
+#headingGroup span{
+    font-family: 'Tangerine', cursive;
+    font-size: 3rem;
+}
+
+#headingGroup #paragraph{
+    font-size: .75rem;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#realNavbar .nav-link{
+    font-size: 1.25rem;
+    font-weight: 100;
+    color: black;
+}
+
+#realNavbar .nav-link:hover{
+    color: #f05d0e;
+}
+
+
+.arrow{
+    color: #f05d0e;
+    font-size: 12px;
+}
+
+.navbar.scrolled{
+    background: rgb(222, 192, 222);
+    transition: background 500ms;
+}
+
+#facebook{
+    margin-bottom: -100px;
+}
+
+#uber{
+    margin-bottom: -60px;
+}
+
+#audi, #google{
+    margin-bottom: -75px;
+}
+
+#nike{
+    margin-bottom: -75px;
+}
