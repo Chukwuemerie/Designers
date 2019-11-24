@@ -2,7 +2,7 @@
     line-height: 1rem;
 }
 
-#headingGroup span{
+.headingGroup span{
     font-family: 'Tangerine', cursive;
     font-size: 3rem;
 }
@@ -13,6 +13,7 @@
 
 body{
     font-family: 'Times New Roman', Times, serif;
+    background: #f2f6f7;
 }
 
 #realNavbar .nav-link{
@@ -25,10 +26,25 @@ body{
     color: #f05d0e;
 }
 
+#paragraph a:hover{
+    color: #f05d0e;
+}
+
+#paragraph a{
+    color: #6c757d;
+}
+
+#meeting{
+    width: 100%;
+}
 
 .arrow{
     color: #f05d0e;
     font-size: 12px;
+}
+
+#arrow2{
+    font-size: 14px;
 }
 
 .navbar.scrolled{
