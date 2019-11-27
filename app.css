@@ -67,3 +67,17 @@ body{
 #nike{
     margin-bottom: -75px;
 }
+
+#mainHeading{
+    font-size: 4rem;
+    margin-top: 70px;
+}
+
+#mainHeading span{
+    font-size: 5rem;
+}
+
+hr.style-one {
+    width: 100px;
+    border-color: #f05d0e;
+}
