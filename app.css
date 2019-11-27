@@ -81,3 +81,44 @@ hr.style-one {
     width: 100px;
     border-color: #f05d0e;
 }
+.shapes{
+    color: #f05d0e;
+    font-size: 50px;
+}
+
+.headingGroup2 p{
+    font-size: 12px;
+}
+
+
+.list-group-item{
+    background-color: #f2f6f7;
+}
+
+.list-group-item a{
+    border: 1px solid #f05d0e;
+    font-size: 18px;
+    border-color: #f05d0e;
+    color: #f05d0e;
+    margin-top: 15px;
+    padding: 0 20px 0 20px;
+}
+
+#faq a{
+    color: black;
+}
+
+#faq a:hover{
+    color: #f05d0e;
+    text-decoration: none;
+}
+
+#faq .arrow{
+    font-size: 15px;
+}
+
+@media (max-width: 900px){
+    #faq h4{
+        font-size: 1rem;
+    }
+}
