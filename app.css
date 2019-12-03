@@ -117,6 +117,48 @@ hr.style-one {
     font-size: 15px;
 }
 
+.carousel-item P{
+    font-size: 15px;
+}
+
+.fa-arrow-right{
+    font-size: 15px;
+}
+
+.fa-instagram{
+    color: #f05d0e;
+    font-size: 40px;
+}
+
+.rotate{
+    transform: rotate(-90deg);
+    font-size: 15px;
+    width: 100px;
+    height: 15;
+    font-weight: 800;
+    padding-top: 100px;
+    margin-top: 50px;
+
+}
+
+
+.shape-img{
+    width: 250px;
+    height: 250px;
+}
+
+.img-1{
+    margin-right: -20px;
+}
+
+.img-4{
+    margin-left: -40px;
+}
+
+.footer{
+    text-decoration: underline;
+}
+
 @media (max-width: 900px){
     #faq h4{
         font-size: 1rem;
